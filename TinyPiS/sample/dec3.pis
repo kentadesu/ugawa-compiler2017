@@ -1,0 +1,9 @@
+var x;
+{
+  x = 10;
+  answer = 10;
+  while(x){
+  	x = x - 1;
+  }
+  answer = x;
+}
